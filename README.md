@@ -20,4 +20,4 @@ I'm a student pursuing Bachelors's in Software Engineering 🎓 from Universitas
 ------
 Credits: [bagussubagja](https://github.com/bagussubagja)
 
-Last Edited on: 15/01/2021
+Last Edited on: 02/03/2022
