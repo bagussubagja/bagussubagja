@@ -22,4 +22,6 @@ I'm a student pursuing Bachelors's in Software Engineering 🎓 from Universitas
 ------
 Credits: [bagussubagja](https://github.com/bagussubagja)
 
-Last Edited on: 02/03/2022
+You can also click that link to see more of my repositories 👉 https://gitlab.com/bagussubagja
+
+Last Edited on: 17/05/2022
