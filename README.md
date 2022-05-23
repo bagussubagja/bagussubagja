@@ -24,4 +24,6 @@ Credits: [bagussubagja](https://github.com/bagussubagja)
 
 You can also click that link to see more of my repositories 👉 https://gitlab.com/bagussubagja
 
-Last Edited on: 17/05/2022
+Visit my latest portfolio : https://bagussubagja.github.io/
+
+Last Edited on: 23/05/2022
