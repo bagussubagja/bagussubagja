@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Bagus Subagja](https://www.linkedin.com/in/bagussubagja/)
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bagussubagja/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagussubagja17@gmail.com)](mailto:bagussubagja17@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bagussubagjaa/)](https://instagram.com/bagussubagja)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bagussubagja/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagussubagja17@gmail.com)](mailto:bagussubagja17@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bagussubagjaa/)](https://instagram.com/_bagussubagja)
 
 ### Glad to see you here! &nbsp;
 
