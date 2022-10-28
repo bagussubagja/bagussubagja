@@ -10,7 +10,7 @@ I'm a student pursuing Bachelors's in Software Engineering from Universitas Pend
 ### More about me:
 
 - 👨 Currently learning and growing my skillset in Flutter, UI/UX Design, and Backend Development.
-- 🤝 Open for collaborations in Flutter development 🕸️
+- 🤝 Open for collaborations in Flutter development
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 
 ### Show some ❤️ by starring some of the repositories!
