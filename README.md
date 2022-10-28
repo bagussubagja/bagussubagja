@@ -1,16 +1,16 @@
 ## Hey 👋, I'm [Bagus Subagja](https://www.linkedin.com/in/bagussubagja/)
 
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bagussubagja/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagussubagja17@gmail.com)](mailto:bagussubagja17@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bagussubagjaa/)](https://instagram.com/_bagussubagja)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bagussubagja/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagussubagja17@gmail.com)](mailto:bagussubagja17@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_bagussubagja/)](https://instagram.com/_bagussubagja)
 
 ### Glad to see you here! &nbsp;
 
-I'm a student pursuing Bachelors's in Software Engineering 🎓 from Universitas Pendidikan Indonesia 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Mobile Development using Flutter.
+I'm a student pursuing Bachelors's in Software Engineering from Universitas Pendidikan Indonesia. I'm a passionate learner who's always willing to learn and work across technologies and challenge myself to be a better developer. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Mobile Development using Flutter and Backend Development.
 
 ### More about me:
 
-- 👨💻 Currently learning and growing my skillset in Flutter and UI/UX Design.
-- 🤝 Open for collaborations in flutter development 🕸️
+- 👨 Currently learning and growing my skillset in Flutter, UI/UX Design, and Backend Development.
+- 🤝 Open for collaborations in Flutter development 🕸️
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 
 ### Show some ❤️ by starring some of the repositories!
@@ -26,4 +26,4 @@ You can also click that link to see more of my repositories 👉 https://gitlab.
 
 Visit my latest portfolio : https://bagussubagja.github.io/
 
-Last Edited on: 23/05/2022
+Last Edited on: 28/10/2022
