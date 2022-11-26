@@ -13,6 +13,7 @@ I'm a student pursuing Bachelors's in Software Engineering from Universitas Pend
 - 🤝 Open for collaborations in Flutter development
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bagussubagja)
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
