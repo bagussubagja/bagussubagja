@@ -27,4 +27,4 @@ You can also click that link to see more of my repositories 👉 https://gitlab.
 
 Visit my latest portfolio : https://bagussubagja.github.io/
 
-Last Edited on: 28/10/2022
+Last Edited on: 26/11/2022
