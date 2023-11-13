@@ -10,4 +10,5 @@ I am a mobile developer who focuses on developing mobile applications with Flutt
 ------
 
 Visit my latest projects here : https://bagussubagja.vercel.app/
+<br/>
 Also visit my gitlab : https://gitlab.com/bagussubagja
