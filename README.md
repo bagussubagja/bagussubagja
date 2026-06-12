@@ -1,4 +1,4 @@
-## Hi 👋, I'm [Bagus Subagja](https://www.linkedin.com/in/bagussubagja/)
+## Hi, I'm [Bagus Subagja](https://www.linkedin.com/in/bagussubagja/)
 
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/bagussubagja/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bagussubagja17@gmail.com)](mailto:bagussubagja17@gmail.com)
@@ -9,4 +9,4 @@ Mobile Engineer focused on building secure, high-performance apps. I care about 
 
 ------
 
-Visit my latest projects here : https://bagussubagja.github.io/
+Visit my latest projects here : https://bagussubagja.dev/
